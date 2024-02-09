@@ -1,0 +1,17 @@
+{
+  "status": "finished",
+  "class": {
+    "system": "http://hl7.org/fhir/v3/ActCode",
+    "code": "IMP",
+    "display": "inpatient encounter"
+  },
+  "reasonCode": [
+    {
+      "text": "The patient had an abnormal heart rate. He is corinthiano."
+    }
+  ],
+  "subject": {
+    "reference": "Patient/PATIENT_ID"
+  },
+  "resourceType": "Encounter"
+}

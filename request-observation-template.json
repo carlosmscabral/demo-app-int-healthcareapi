@@ -1,0 +1,30 @@
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "subject": {
+    "reference": "Patient/PATIENT_ID"
+  },
+  "effectiveDateTime": "2020-01-01T00:00:00+00:00",
+  "identifier": [
+    {
+      "system": "my-code-system",
+      "value": "ABC-12345"
+    }
+  ],
+  "code": {
+    "coding": [
+      {
+        "system": "http://loinc.org",
+        "code": "8867-4",
+        "display": "Heart rate"
+      }
+    ]
+  },
+  "valueQuantity": {
+    "value": 250,
+    "unit": "bpm"
+  },
+  "encounter": {
+    "reference": "Encounter/ENCOUNTER_ID"
+  }
+}
