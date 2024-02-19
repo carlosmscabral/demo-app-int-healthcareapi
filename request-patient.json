@@ -8,5 +8,10 @@
   ],
   "gender": "male",
   "birthDate": "1900-01-01",
+  "address": [
+    {
+      "postalCode": "04543-907"
+    }
+  ],
   "resourceType": "Patient"
 }

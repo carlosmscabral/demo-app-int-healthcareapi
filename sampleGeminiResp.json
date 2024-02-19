@@ -1,0 +1,228 @@
+[
+  {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "**Ingredientes:**\n\n* 1 picanha de cerca de 1,5 kg\n* Sal grosso a gosto\n* Pimenta-do-reino"
+            }
+          ],
+          "role": "model"
+        },
+        "safetyRatings": [
+          {
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.08586246,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.18417984,
+            "category": "HARM_CATEGORY_HATE_SPEECH"
+          },
+          {
+            "probabilityScore": 0.34931073,
+            "severity": "HARM_SEVERITY_LOW",
+            "severityScore": 0.30549008,
+            "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+            "probability": "NEGLIGIBLE"
+          },
+          {
+            "probabilityScore": 0.10951516,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.09790669,
+            "category": "HARM_CATEGORY_HARASSMENT",
+            "probability": "NEGLIGIBLE"
+          },
+          {
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.076683804,
+            "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.104294725
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": " moída na hora a gosto\n* 1 colher (sopa) de azeite\n\n**Modo de Preparo:**\n\n1. Retire a picanha da geladeira"
+            }
+          ],
+          "role": "model"
+        },
+        "safetyRatings": [
+          {
+            "category": "HARM_CATEGORY_HATE_SPEECH",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.10989668,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.17582092
+          },
+          {
+            "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.27659282,
+            "severity": "HARM_SEVERITY_LOW",
+            "severityScore": 0.31447142
+          },
+          {
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.15778464,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.12378869,
+            "category": "HARM_CATEGORY_HARASSMENT"
+          },
+          {
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.08079154,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.07864238,
+            "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "candidates": [
+      {
+        "content": {
+          "role": "model",
+          "parts": [
+            {
+              "text": " cerca de 1 hora antes de grelhar para que ela atinja a temperatura ambiente.\n2. Tempere a picanha generosamente com sal grosso e pimenta-do-reino.\n3. Aqueça uma grelha ou frigideira grande em fogo alto.\n4. Pincele"
+            }
+          ]
+        },
+        "safetyRatings": [
+          {
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.13161905,
+            "category": "HARM_CATEGORY_HATE_SPEECH",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.108566426
+          },
+          {
+            "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.23109324,
+            "severity": "HARM_SEVERITY_LOW",
+            "severityScore": 0.34565726
+          },
+          {
+            "category": "HARM_CATEGORY_HARASSMENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.14608724,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.09602549
+          },
+          {
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.10266401,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.09687653,
+            "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": " a picanha com azeite e coloque-a na grelha.\n5. Grelhe por cerca de 5-7 minutos de cada lado, ou até que a carne esteja no ponto desejado (mal passada, ao ponto ou bem passada).\n6. Retire a picanha da grelha e deixe descansar"
+            }
+          ],
+          "role": "model"
+        },
+        "safetyRatings": [
+          {
+            "category": "HARM_CATEGORY_HATE_SPEECH",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.09721884,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.13318956
+          },
+          {
+            "probabilityScore": 0.12962292,
+            "severity": "HARM_SEVERITY_LOW",
+            "severityScore": 0.20866229,
+            "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+            "probability": "NEGLIGIBLE"
+          },
+          {
+            "category": "HARM_CATEGORY_HARASSMENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.12743528,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.07935289
+          },
+          {
+            "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.09268778,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.098079324
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "candidates": [
+      {
+        "finishReason": "MAX_TOKENS",
+        "safetyRatings": [
+          {
+            "category": "HARM_CATEGORY_HATE_SPEECH",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.085709274,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.12453206
+          },
+          {
+            "severityScore": 0.23126681,
+            "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.16559312,
+            "severity": "HARM_SEVERITY_LOW"
+          },
+          {
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.06754669,
+            "category": "HARM_CATEGORY_HARASSMENT",
+            "probability": "NEGLIGIBLE",
+            "probabilityScore": 0.112600096
+          },
+          {
+            "probabilityScore": 0.11143445,
+            "severity": "HARM_SEVERITY_NEGLIGIBLE",
+            "severityScore": 0.112600096,
+            "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+            "probability": "NEGLIGIBLE"
+          }
+        ],
+        "content": {
+          "parts": [
+            {
+              "text": " por cerca de 10 minutos antes de fatiar e servir.\n\n**Dicas:**\n\n* Para uma picanha mais suculenta, deixe-a marinar na geladeira por algumas horas ou durante a noite em uma mistura de azeite, alho, cebola e ervas frescas.\n* Se você não tiver uma gre"
+            }
+          ],
+          "role": "model"
+        }
+      }
+    ],
+    "usageMetadata": {
+      "candidatesTokenCount": 256,
+      "promptTokenCount": 4,
+      "totalTokenCount": 260
+    }
+  }
+]

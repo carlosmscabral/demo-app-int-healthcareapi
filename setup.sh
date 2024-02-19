@@ -13,6 +13,17 @@ patient_id=$(curl -X POST \
 
 echo "Patient created with ID: ${patient_id}"
 
+## Creating a bundle of observations
+
+echo "Creating a bundle of observations"
+sed "s/PATIENT_ID/${patient_id}/g" request-observation-bundle-template.json > request-observation-bundle.json
+
+curl -X POST \
+    -H "Content-Type: application/fhir+json; charset=utf-8" \
+    -H "Authorization: Bearer $(gcloud auth application-default print-access-token)" \
+    --data @request-observation-bundle.json \
+    "https://healthcare.googleapis.com/v1/${FHIR_STORE}/fhir" | jq '.entry[].response.location' > observation-ids.txt
+
 ### Creating an encounter
 
 sed "s/PATIENT_ID/${patient_id}/g" request-encounter-template.json > request-encounter.json

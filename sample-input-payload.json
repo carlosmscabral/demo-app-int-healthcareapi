@@ -1,0 +1,13 @@
+{
+  "data": "projects/cabral-app-integration/locations/southamerica-east1/datasets/cabral-dataset/fhirStores/cabral-fhir/fhir/Patient/2ebe419e-7001-4b5c-a2e9-765045287cf7",
+  "attributes": {
+    "action": "CreateResource",
+    "lastUpdatedTime": "Fri, 16 Feb 2024 11:59:02 UTC",
+    "payloadType": "NameOnly",
+    "resourceType": "Patient",
+    "storeName": "projects/cabral-app-integration/locations/southamerica-east1/datasets/cabral-dataset/fhirStores/cabral-fhir",
+    "versionId": "MTcwODA4NDc0MjQ3OTkxMDAwMA"
+  },
+  "messageId": "9294851236007045",
+  "publishTime": "2024-02-16T11:59:02.636Z"
+}
