@@ -1,0 +1,17 @@
+{
+  "status": "finished",
+  "class": {
+    "system": "http://hl7.org/fhir/v3/ActCode",
+    "code": "IMP",
+    "display": "inpatient encounter"
+  },
+  "reasonCode": [
+    {
+      "text": "The patient declares to be allergic to penicillin."
+    }
+  ],
+  "subject": {
+    "reference": "Patient/530f1418-ad87-40a2-ba06-2c2f2f63401a"
+  },
+  "resourceType": "Encounter"
+}

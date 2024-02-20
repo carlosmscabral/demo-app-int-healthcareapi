@@ -1,0 +1,4 @@
+"https://healthcare.googleapis.com/v1/projects/cabral-app-integration/locations/southamerica-east1/datasets/cabral-dataset/fhirStores/cabral-fhir/fhir/Observation/470dbc1f-b9f9-433f-983d-0c60363e7f5b/_history/MTcwODM3NDkxMzE4NjE1MTAwMA"
+"https://healthcare.googleapis.com/v1/projects/cabral-app-integration/locations/southamerica-east1/datasets/cabral-dataset/fhirStores/cabral-fhir/fhir/Observation/037463f0-372a-452a-93be-7039e6b38fcd/_history/MTcwODM3NDkxMzE4NjE1MTAwMA"
+"https://healthcare.googleapis.com/v1/projects/cabral-app-integration/locations/southamerica-east1/datasets/cabral-dataset/fhirStores/cabral-fhir/fhir/Observation/b15ed5ed-70b0-49a2-9a59-ac23f880de07/_history/MTcwODM3NDkxMzE4NjE1MTAwMA"
+"https://healthcare.googleapis.com/v1/projects/cabral-app-integration/locations/southamerica-east1/datasets/cabral-dataset/fhirStores/cabral-fhir/fhir/Observation/b011bb36-8770-4f6b-92dd-08c3698e372c/_history/MTcwODM3NDkxMzE4NjE1MTAwMA"
