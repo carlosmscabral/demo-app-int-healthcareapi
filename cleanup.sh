@@ -36,7 +36,7 @@ do
 
 done < observation-ids.txt 
 
-rm observation-ids.txt
+rm observation-ids.txt request-observation-bundle.json
 
 # Remove patient
 curl -X DELETE \
